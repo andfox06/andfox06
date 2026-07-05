@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi I'm Andrew Fox 👋
 
-<!--
-**andfox06/andfox06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Junior at Bloomsburg University studying Digital Forensics and Cybersecurity. I'm passionate about computer security and learning how to protect systems from online threats. 
 
-Here are some ideas to get you started:
+## Interests
+- Cybersecurity (Offensive and Defensive Security)
+- Ethical Hacking (Penetration Testing)
+- Network Security
+- Software Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- Python
+- SQL (basic)
+- FTK Imager
+- Autopsy
+
+## Projects
+Currently working on cybersecurity projects I'll add here soon
+
+## Connect With Me
+- LinkedIn: https://www.linkedin.com/in/andrew-fox-702775340/
